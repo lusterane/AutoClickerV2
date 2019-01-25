@@ -1,0 +1,3 @@
+[Coordinate Color Values]
+TurnButtonY=0xFFFFFFFF
+TurnButtonX=0xFFFFFFFF

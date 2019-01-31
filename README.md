@@ -10,15 +10,15 @@ HearthBot is a script that automatically plays out a match by using Hero power o
 
 
 ## How to use
-*__(IMPORTANT)__ Make sure an instance of Hearthstone is open before running the application
-*Run AutoClickerV2.exe
-**It will record color palettes throughout the screen to determine turn ordering
-**color palettes will be recorded in colorrefinfo.txt
-**DO NOT move your mouse during this. If this occurs, press F3 to reset color references
-*GUI will open for you to select your current hero. Choose the corresponding hero
-*F2 to start script
-**__F5 to close the program__
-*Enjoy!
+* __(IMPORTANT)__ Make sure an instance of Hearthstone is open before running the application
+* Run AutoClickerV2.exe
+** It will record color palettes throughout the screen to determine turn ordering
+** color palettes will be recorded in colorrefinfo.txt
+** DO NOT move your mouse during this. If this occurs, press F3 to reset color references
+* GUI will open for you to select your current hero. Choose the corresponding hero
+* F2 to start script
+** __F5 to close the program__
+* Enjoy!
 
 ## Bugs to fix
 *Hearthstone theme-pack updates affecting color recognition

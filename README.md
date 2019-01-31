@@ -1,7 +1,7 @@
-# AutoClickerV2
-Developed January 2018  
+# HearthBot
+A Personal Project Developed January 2018  
 ## What is it?
-A script that automatically plays out a match by using Hero power on opponent. This is to automatically finish daily quests without the hassle of playing
+HearthBot is a script that automatically plays out a match by using Hero power on opponent. This is to automatically finish daily quests without the hassle of playing
 
 ## Noteworthy Features
 *Supports windows GUI for ease of navigability
